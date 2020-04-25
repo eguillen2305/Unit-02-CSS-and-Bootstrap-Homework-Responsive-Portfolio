@@ -4,7 +4,7 @@ For this homework assisgnment we are tasked to create responsive web pages showc
 
 ## Getting Started
 
-To access the webpages please visit (html blah blah)
+To access the webpages please visit 
 To access the raw code you may visit github hthasdfkasdkjf
 
 ### Prerequisites
@@ -14,7 +14,7 @@ Visual Studio Code
 
 ### Screenshots and Examples
 
-
+![alt text](screenshots/screenshot1.png "Screenshot 1)
 
 
 
