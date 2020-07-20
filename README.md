@@ -4,9 +4,8 @@ For this homework assisgnment we are tasked to create responsive web pages showc
 
 ## Getting Started
 
-To access the webpages please visit https://eguillen117.github.io/Homework-Week-2-EG-042520/
+To access the webpages please visit https://eguillen2305.github.io/Unit-02-CSS-and-Bootstrap-Homework-Responsive-Portfolio/
 
-To access the raw code you may visit github https://github.com/eguillen117/Homework-Week-2-EG-042520/
 
 ### Prerequisites
 GitHub
@@ -29,7 +28,7 @@ Visual Studio Code
 
 ## Authors
 
-* **Eduardo Guillen ** - [UTSA BCS](https://github.com/eguillen117
+* **Eduardo Guillen ** - [UTSA BCS](https://github.com/eguillen2035
 
 
 ## License
